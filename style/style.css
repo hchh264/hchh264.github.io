@@ -1,0 +1,12 @@
+ul#navBar{
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px;
+}
+li{
+    display: inline-block;
+}
+.table{
+    display: table;
+    margin: 0 auto;
+}
